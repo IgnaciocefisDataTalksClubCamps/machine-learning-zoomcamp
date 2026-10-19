@@ -7,8 +7,8 @@ en los homeworks y lo que hará falta para los proyectos (midterm y capstone).
 |--------|--------|---------|----------|----------|
 | 1 | Introducción a ML | [week_01.md](week_01.md) | [week_01.ipynb](../homework/week_01.ipynb) | 21 sep 2026 |
 | 2 | Regresión | [week_02.md](week_02.md) | [week_02.ipynb](../homework/week_02.ipynb) | 28 sep 2026 |
-| 3 | Clasificación | _pendiente_ | [week_03.ipynb](../homework/week_03.ipynb) | 5 oct 2026 |
-| 4 | Métricas de evaluación | _pendiente_ | [week_04.ipynb](../homework/week_04.ipynb) | 12 oct 2026 |
+| 3 | Clasificación | [week_03.md](week_03.md) | [week_03.ipynb](../homework/week_03.ipynb) | 5 oct 2026 |
+| 4 | Métricas de evaluación | [week_04.md](week_04.md) | [week_04.ipynb](../homework/week_04.ipynb) | 12 oct 2026 |
 | 5 | Despliegue | _pendiente_ | [week_05.ipynb](../homework/week_05.ipynb) | 19 oct 2026 |
 | 6 | Árboles y ensembles | _pendiente_ | [week_06.ipynb](../homework/week_06.ipynb) | 26 oct 2026 |
 | 8 | Deep Learning | _pendiente_ | [week_08.ipynb](../homework/week_08.ipynb) | 23 nov 2026 |
